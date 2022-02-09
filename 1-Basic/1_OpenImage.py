@@ -50,9 +50,9 @@ from cv2 import imread
 # cv.imshow('resiza', rs)
 
 # # Cropping atau dicrop
-img = cv.imread('../img/rusa.jpg')
-cropped = img[10:500, 200:400]
-cv.imshow('Cropped', cropped)
+# img = cv.imread('../img/rusa.jpg')
+# cropped = img[10:500, 200:400]
+# cv.imshow('Cropped', cropped)
 
 # Jangan Hapus kode dibawah ini
 k = cv.waitKey(0)
