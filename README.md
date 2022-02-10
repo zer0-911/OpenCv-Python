@@ -13,7 +13,7 @@ OpenCV adalah sebuah pustaka perangkat lunak yang ditujukan untuk pengolahan cit
 ## NumPy
 
 <div align="center">
-<a href =" https://numpy.org/ "<img src="https://numpy.org/images/logo.svg" height="250" align="center" /> </a>
+<a href =" https://numpy.org/ "><img src="https://numpy.org/images/logo.svg" height="250" align="center" /> </a>
 </div>
 
 NumPy adalah sebuah pustaka untuk bahasa pemrograman Python, NumPy memberikan dukungan untuk himpunan dan matriks multidimensi yang besar, dan dilengkapi koleksi sejumlah besar fungsi matematika tingkat tinggi untuk beroperasi pada himpunan ini
