@@ -20,11 +20,11 @@ NumPy adalah sebuah pustaka untuk bahasa pemrograman Python, NumPy memberikan du
 
 ## List Kode
 
-| Basic          | Advanced | Faces |
-| -------------- | :------: | ----: |
-| Basic Read     |          |       |
-| Read Video     |          |       |
-| Drawing        |          |       |
-| Contours       |          |       |
-| Threshold      |          |       |
-| Transformation |          |       |
+| Basic          | Advanced |      Detection |
+| -------------- | :------: | -------------: |
+| Basic Read     |          | Face Detection |
+| Read Video     |          |                |
+| Drawing        |          |                |
+| Contours       |          |                |
+| Threshold      |          |                |
+| Transformation |          |                |

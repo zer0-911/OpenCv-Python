@@ -51,9 +51,9 @@ cv.imshow('Rusa', img)
 # flip = cv.flip(img, -1)
 # cv.imshow('Flip', flip)
 
-# Memotong gambar
-cropped = img[200:400, 300:400]
-cv.imshow('Cropped', cropped)
+# # Memotong gambar
+# cropped = img[200:400, 300:400]
+# cv.imshow('Cropped', cropped)
 
 
 # Jangan Hapus kode dibawah ini
