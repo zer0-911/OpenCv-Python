@@ -1,3 +1,10 @@
+# /**
+#  * @author Moh. Iqbal Fatchurozi
+#  * @email mohiqbalf5@gmail.com
+#  * @create date 2022-02-11 09:43:03
+#  * @modify date 2022-02-11 09:43:03
+#  * @desc [Contour dan lainnya, hilangkan komen untuk menjalankan program]
+#  */
 
 
 import cv2 as cv
@@ -23,14 +30,14 @@ img = cv.imread('../img/rusa.jpg')
 # canny = cv.Canny(img, 125, 175)
 # cv.imshow('Canny Edges', canny)
 
+# # 5. Contour
+# canny = cv.Canny(img, 125, 175)
+# contours, hierarchies = cv.findContours(
+#     canny, cv.RETR_LIST, cv.CHAIN_APPROX_SIMPLE)
+# print(f'{len(contours)} contour(s) found!')
 
-canny = cv.Canny(img, 125, 175)
-contours, hierarchies = cv.findContours(
-    canny, cv.RETR_LIST, cv.CHAIN_APPROX_SIMPLE)
-print(f'{len(contours)} contour(s) found!')
-
-cv.drawContours(img, contours, -1, (0, 0, 255), 1)
-cv.imshow('Contours Drawn', img)
+# cv.drawContours(img, contours, -1, (0, 0, 255), 1)
+# cv.imshow('Contours Drawn', img)
 
 # Jangan Hapus kode dibawah ini
 k = cv.waitKey(0)
