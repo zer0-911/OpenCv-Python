@@ -28,3 +28,4 @@ NumPy adalah sebuah pustaka untuk bahasa pemrograman Python, NumPy memberikan du
 | Contours       |          |                |
 | Threshold      |          |                |
 | Transformation |          |                |
+| Hit Miss       |          |                |
